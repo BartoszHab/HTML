@@ -1,0 +1,47 @@
+h1 {
+    font-style:italic;
+    color:silver;
+    font-size:2.5cm;
+    font-family:sans-serif;
+}
+
+.akapit1 {
+    font-family:fantasy;
+    color:#000080;
+    font-size:200;
+    line-height:150%;
+    font-variant:small-caps;
+    text-decoration:overline;
+    text-transform:lowercase ;
+    text-align:center;
+    text-indent:20px;
+    line-height:10px;
+    word-spacing:5px;
+    letter-spacing:5px;
+}
+
+.akapit2{
+font-family: "Asap", sans-serif;
+font-style: small-caps;
+text-decoration:none;
+text-transform: none;
+text-align: left;
+text-indent:18px;
+line-height:18px;
+}
+
+.akapit3{
+    font-family: "Times New Roman";
+    line-height:16px;
+    size:10px;
+    font-size:900;
+    color: #ff00ff;
+    font:normal;
+    text-decoration: line-through;
+    text-transform: normal;
+    text-align: right;
+    text-indent: 16px;
+    word-spacing: 16px;
+    letter-spacing: 16px;
+
+}
